@@ -10,7 +10,7 @@ Loosely based upon the instructions found [here](http://asysadmin.tumblr.com/pos
     * cd `c:\verdaccio`
 2. Install verdaccio locally (I ran into npm issues with global installs)
     * npm install verdaccio
-3. Create your `config.yaml` file in this location `(c:\verdaccio\config.yaml)`
+3. Create your `config.yaml` file in this location `(c:\verdaccio\config.yaml)` copy from `verdaccio\conf\default.yaml`.
 4. Windows Service Setup
 
 ## Using NSSM
